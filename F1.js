@@ -11,3 +11,5 @@ for(let i = 0; i < n; i++) { // external loop
 }
 // printing the string
 console.log(string);
+
+// i wanan a mern stack developer
