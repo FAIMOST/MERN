@@ -13,3 +13,4 @@ for(let i = 0; i < n; i++) { // external loop
 console.log(string);
 
 // i wanan a mern stack developer
+//hi this is properly working 
